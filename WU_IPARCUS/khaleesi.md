@@ -18,3 +18,9 @@ Sur une des photos les plus nettes extraites on retrouve 3 hommes jouant au golf
 Notre espion porte un pantalon bleu flashy.<br><br>
 ``flag : 02_BLEU``
 # 2 
+Nous avons infiltré un groupe de mafieux qui font de la revente de produit issu du marché noir.
+Ces mafieux sont fan de golf... Notre espion a eu rendez vous avec les deux leaders de ce groupe mafieux.
+
+Quel est le nom du golf ou la rencontre à eu lieu ? (sans tiret ou espace, en majuscule)
+<br><br><br>
+La photo n'étant pas assez nette pour tenter de GEOINT l'image il va falloir retrouver l'addresse ip de la caméra qui a prit ces images.
