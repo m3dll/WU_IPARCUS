@@ -35,4 +35,4 @@ Nous avons infiltré un groupe de mafieux qui font de la revente de produit issu
 Ces mafieux sont fan de golf... Notre espion a eu rendez vous avec les deux leaders de ce groupe mafieux.
 
 A quelle heure a eut lieu le rendez vous ? (sous la forme, AAAA-MM-JJ_HH)
-[14:03]
+
