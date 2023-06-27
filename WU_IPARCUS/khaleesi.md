@@ -23,4 +23,9 @@ Ces mafieux sont fan de golf... Notre espion a eu rendez vous avec les deux lead
 
 Quel est le nom du golf ou la rencontre à eu lieu ? (sans tiret ou espace, en majuscule)
 <br><br><br>
-La photo n'étant pas assez nette pour tenter de GEOINT l'image il va falloir retrouver l'addresse ip de la caméra qui a prit ces images.
+La photo n'étant pas assez nette pour tenter de GEOINT l'image il va falloir retrouver l'addresse ip de la caméra qui a prit ces images.<br>
+Pour se faire on va continuer d'utiliser tshark avec : ``tshark -r Khaleesi.pcapng -T fields -e ip.addr | sort -u > ips.txt`` <br>
+Une fois le tri fait dans ips.txt il liste 4 ip, celle qui nous interessera sera : ``217.38.38.154``<br>
+On se rend sur ``https://whatismyipaddress.com/fr/mon-ip``<br>
+
+# 3
