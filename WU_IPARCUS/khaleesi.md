@@ -36,3 +36,5 @@ Ces mafieux sont fan de golf... Notre espion a eu rendez vous avec les deux lead
 
 A quelle heure a eut lieu le rendez vous ? (sous la forme, AAAA-MM-JJ_HH)
 
+Sur l'image de vidéo surveillance on appercoit la date et l'heure à laquelle la rencontre a eu lieu. <br>
+<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/date_rencontre.png">
