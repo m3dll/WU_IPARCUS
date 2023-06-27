@@ -10,7 +10,7 @@ Le flag sera donné sous la forme : 00_COULEUR
 exemple : 07_JAUNE
 
 <br><br>
-Nous avons un fichier nommé khaleesi.pcapng et nous voulons en extraire une ou des images.
+Nous avons un fichier nommé ``khaleesi.pcapng`` et nous voulons en extraire une ou des images.
 <br> 
 Pour se faire nous allons utiliser la commande : ``sudo foremost -T  Khaleesi.pcapng``
 <br> 
