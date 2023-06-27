@@ -29,5 +29,10 @@ Pour se faire on va continuer d'utiliser tshark avec : ``tshark -r Khaleesi.pcap
 Une fois le tri fait dans ips.txt il liste 4 ip, celle qui nous interessera sera : ``217.38.38.154``<br>
 On se rend sur ``https://whatismyipaddress.com/fr/mon-ip``<br><br>
 ![](https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/addr_golf.png)
-
+``flag : TANDRIDGOLFCLUB``
 # 3
+Nous avons infiltré un groupe de mafieux qui font de la revente de produit issu du marché noir.
+Ces mafieux sont fan de golf... Notre espion a eu rendez vous avec les deux leaders de ce groupe mafieux.
+
+A quelle heure a eut lieu le rendez vous ? (sous la forme, AAAA-MM-JJ_HH)
+[14:03]
