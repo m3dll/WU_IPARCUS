@@ -41,3 +41,22 @@ Sur l'image de vidéo surveillance on appercoit la date et l'heure à laquelle l
 
 ``flag : 2023-03-06_10``
 # 4
+_Nous avons infiltré un groupe de mafieux qui font de la revente de produit issu du marché noir._
+_Ces mafieux sont fan de golf... Notre espion a eu rendez vous avec les deux leaders de ce groupe mafieux._
+
+_L'un des mafieux semble se vanter d'avoir son nom juste au dessus de la cheminée depuis 2011, trouver son prénom et nom complet ? (PRENOMSNOM en majuscule sans espace)_
+
+# 5 
+_Ce premier rendez vous s'étant bien passé, les 2 mafieux et notre espion doivent se retrouver à la fin de la semaine dans un bar / restaurant non loin de la entre 17h et 19h pour déguster un de leur très nombreux cocktails._
+
+_Comment s'appel se bar ? (sur le logo du bar, en majuscule, sans espace)_
+_Combien y a t il de cocktail dans ce bar ?_
+
+_Le flag se donnera sous la forme : NOMDUBAR_000 (exemple : IPARCUS_123)_
+
+# 6 
+Les mafieux sont très attachés à ce bar, en raison de son affiliation... Nous devons retrouver l'affiliation pour pouvoir démenteler la globalité de ce groupe mafieux.
+
+A qui appartient / appartenait ce blason ? (nom complet en majuscule, séparé par des underscore)
+
+``flag : GEORGE_LOUIS_DE_HANOVRE``
