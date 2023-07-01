@@ -46,6 +46,12 @@ _Ces mafieux sont fan de golf... Notre espion a eu rendez vous avec les deux lea
 
 _L'un des mafieux semble se vanter d'avoir son nom juste au dessus de la cheminée depuis 2011, trouver son prénom et nom complet ? (PRENOMSNOM en majuscule sans espace)_
 
+En se balandant sur le site du golf ``http://www.tandridgegolfclub.com`` on le voit sur l'onglet ``The club house``
+
+
+
+<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/cheminée_flag.jpg">
+
 # 5 
 _Ce premier rendez vous s'étant bien passé, les 2 mafieux et notre espion doivent se retrouver à la fin de la semaine dans un bar / restaurant non loin de la entre 17h et 19h pour déguster un de leur très nombreux cocktails._
 
