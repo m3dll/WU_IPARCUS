@@ -57,9 +57,11 @@ _Ce premier rendez vous s'étant bien passé, les 2 mafieux et notre espion doiv
 _Comment s'appel se bar ? (sur le logo du bar, en majuscule, sans espace)_
 _Combien y a t il de cocktail dans ce bar ?_
 
-_Le flag se donnera sous la forme : NOMDUBAR_000 (exemple : IPARCUS_123)_
+_Le flag se donnera sous la forme : NOMDUBAR_000 (exemple : IPARCUS_123)_ 
+Il suffit de naviguer sur un merveilleux outil appellé google maps et de fouiller les alentours.
 <img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/addr_bar.PNG">
 <img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/cocktails.png">
+
 ``flag : THEGEORGEINN241``
 
 # 6 
