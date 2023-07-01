@@ -46,12 +46,11 @@ _Ces mafieux sont fan de golf... Notre espion a eu rendez vous avec les deux lea
 
 _L'un des mafieux semble se vanter d'avoir son nom juste au dessus de la cheminée depuis 2011, trouver son prénom et nom complet ? (PRENOMSNOM en majuscule sans espace)_
 
-En se balandant sur le site du golf ``http://www.tandridgegolfclub.com`` on le voit sur l'onglet ``The club house``
-
-
+En se balandant sur le site du golf ``http://www.tandridgegolfclub.com`` on le voit sur l'onglet ``The club house`` on appercoit les différents noms gravés sur la cheminée.
 
 <img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/cheminée_flag.jpg">
 
+``flag : R.J.JONES ``
 # 5 
 _Ce premier rendez vous s'étant bien passé, les 2 mafieux et notre espion doivent se retrouver à la fin de la semaine dans un bar / restaurant non loin de la entre 17h et 19h pour déguster un de leur très nombreux cocktails._
 
@@ -59,10 +58,14 @@ _Comment s'appel se bar ? (sur le logo du bar, en majuscule, sans espace)_
 _Combien y a t il de cocktail dans ce bar ?_
 
 _Le flag se donnera sous la forme : NOMDUBAR_000 (exemple : IPARCUS_123)_
+<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/addr_bar.PNG">
+<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/cocktails.png">
+``flag : THEGEORGEINN241``
 
 # 6 
 Les mafieux sont très attachés à ce bar, en raison de son affiliation... Nous devons retrouver l'affiliation pour pouvoir démenteler la globalité de ce groupe mafieux.
 
 A qui appartient / appartenait ce blason ? (nom complet en majuscule, séparé par des underscore)
+
 
 ``flag : GEORGE_LOUIS_DE_HANOVRE``
