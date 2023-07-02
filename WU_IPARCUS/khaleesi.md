@@ -53,14 +53,14 @@ En se balandant sur le site du golf ``http://www.tandridgegolfclub.com`` on le v
 ``flag : R.J.JONES ``
 # 5 
 _Ce premier rendez vous s'étant bien passé, les 2 mafieux et notre espion doivent se retrouver à la fin de la semaine dans un bar / restaurant non loin de la entre 17h et 19h pour déguster un de leur très nombreux cocktails._
-
 _Comment s'appel se bar ? (sur le logo du bar, en majuscule, sans espace)_
 _Combien y a t il de cocktail dans ce bar ?_
 
-_Le flag se donnera sous la forme : NOMDUBAR_000 (exemple : IPARCUS_123)_ 
-Il suffit de naviguer sur un merveilleux outil appellé google maps et de fouiller les alentours.
-<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/addr_bar.PNG">
-<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/cocktails.png">
+_Le flag se donnera sous la forme : NOMDUBAR_000 (exemple : IPARCUS_123)_ <br><br><br>
+Il suffit de naviguer sur un merveilleux outil appellé google maps et de fouiller les alentours du golf. <br><br>
+<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/addr_bar.PNG"> 
+On tombe sur le site du bar george inn et dans la galery on tombe sur 241 cockatails en photo <br><br>
+<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/cocktails.png"> 
 
 ``flag : THEGEORGEINN241``
 
@@ -68,6 +68,12 @@ Il suffit de naviguer sur un merveilleux outil appellé google maps et de fouill
 Les mafieux sont très attachés à ce bar, en raison de son affiliation... Nous devons retrouver l'affiliation pour pouvoir démenteler la globalité de ce groupe mafieux.
 
 A qui appartient / appartenait ce blason ? (nom complet en majuscule, séparé par des underscore)
+Dans un premier temps on va prendre une capture d'écran du blason vu sur google street view. <br> <br>
+<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/logo_blason.png"> <br><br>
+Il suffit de faire une recherche par image inversée sur google. En scrollant bien on tombe sur une page wikipedia avec différents blasons.
+<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/Capture%20d'%C3%A9cran%202023-07-01%20191139.png">
+On nous parle de George I, cherchons maintenant quel est le nom complet de George I afin de trouver le flag.
+<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/Capture%20d'%C3%A9cran%202023-07-01%20191328.png">
 
 
 ``flag : GEORGE_LOUIS_DE_HANOVRE``
