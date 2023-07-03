@@ -30,5 +30,5 @@ Quel est cet animal ? <br> <br>
 En se rendant sur le site de l'Aéroclub d'Aire-sur-l'Adour on tombe sur cette image : 
 <img src="https://www.aeroclub-aire.fr/lfda/wp-content/uploads/2019/11/GROB-G103-Twin-2-biplace-%C3%A9cole-2-scaled.jpg">
 En zoomant sur l'avant de l'avion on peut observer un tigre. <br>
-<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/avant_avion.PNG"> <br>*
+<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/avant_avion.PNG"> <br>
 ``flag : tigre``
