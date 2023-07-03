@@ -15,21 +15,21 @@ En zoomant sur l'image on peut apercevoir sur le panneau l'inscription "Koh Samu
 `` flag : KOHSAMUI_DOWNUNDER ``
 # 2
 
-Cette discothèque est maintenant fermée, mais le chef de la contrebande sevit toujours dans ce quartier. Il a maintenant remplacé cette discothèque, par une autre enseigne.
+_Cette discothèque est maintenant fermée, mais le chef de la contrebande sevit toujours dans ce quartier. Il a maintenant remplacé cette discothèque, par une autre enseigne._
 
-Quelle est le nom de cette enseigne ? (en majuscule)
-De quelle couleur est son logo ? (en majuscule)
+_Quelle est le nom de cette enseigne ? (en majuscule)_
+_De quelle couleur est son logo ? (en majuscule)_
 
-Le flag devra être sous la forme ENSEIGNE_COULEUR
+_Le flag devra être sous la forme ENSEIGNE_COULEUR_
 
 # 3
 
-Nous savons de source sur qu'il tenait un restaurant de burger, non loin de la, qu'il a vendu / mis en vente pour financer sa nouvelle enseigne.
+_Nous savons de source sur qu'il tenait un restaurant de burger, non loin de la, qu'il a vendu / mis en vente pour financer sa nouvelle enseigne._
 
-Trouver le numéro de téléphone du chef de la contrebande ! <br><br><br>
+_Trouver le numéro de téléphone du chef de la contrebande !_ <br><br>
 
 En nous balandant dans les alentours sur google street view on se rend que tout n'est pas cartographié mais qu'il y a des petits points (représentant des photos 360 uploadées par des condributeurs)
-On tombe nez à nez avec un restaurant de burger à vendre.
+On tombe nez à nez avec un restaurant de burger à vendre. <br>
 <img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/streetview.png">
 <img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/burger_sale.PNG"> <br>
 `` flag : 0928762262 ``
