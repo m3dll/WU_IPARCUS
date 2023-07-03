@@ -7,7 +7,7 @@ Quel est le modèle ?
 <img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/caplane.jpg"> <br> <br>
 
 
-On voit sur cette photo un screenshot de ce qui semble être ``https://www.flightradar24.com/`` rendons nous sur le site et tapons l'ID de l'avion afin d'en savoir plus.
+On voit sur cette photo un screenshot de ce qui semble venir de  ``https://www.flightradar24.com/`` rendons nous sur le site et tapons l'ID de l'avion afin d'en savoir plus.
 L'avion en question est un Grob G-103 Twin Astir II.
 <img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/flight_radar_id.PNG"> <br>
 `` flag : Grob G-103 Twin Astir II ``
