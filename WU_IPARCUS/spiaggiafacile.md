@@ -41,7 +41,7 @@ _Quel était le nom de son armurier, et qu'y a-t-il d'inscrit sur le manche de s
 Le flag devra être en majuscule, sans espace, et séparé par un underscore, exemple : JOHNDOE_HELLOWORLD <br><br><br>
 
 
-En tapant les mots clés `` Pascal Paoli armurier``sur google on tombe sur ce site : <br>
+En tapant les mots clés ``Pascal Paoli armurier``sur google on tombe sur ce site : <br>
 ``https://sketchfab.com/3d-models/revolver-john-twigg-abf07dc475a24eca8f5019fb7403e754`` <br>
 En regardant la description en dessous du pistolet en 3d on voit que ces pistolets ont été fabriqués vers 1733 par John Twigg on y voit aussi l'inscription "Paoli to Manvers" <br>
 ``flag : JOHNTWIGG_PAOLITOMANVERS``
