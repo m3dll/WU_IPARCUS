@@ -25,18 +25,28 @@ Il serait donc né en Juin 1962 <br>
 <br><br>
 ``flag : 061962-05121970 ``
 # 3 
-De quel équipe de foot est-il (sont-ils) fan ?
-
+_De quel équipe de foot est-il (sont-ils) fan ?_<br><br>
+En scrollant sur le profil d'Andrew on trouve plusieurs post montrant son amour inconditionnel pour Manchester United dont une vidéo de sa femme : <br>
+``https://www.facebook.com/Parky1962/videos/10218861479554130/``
+<br><br>
+``flag : ManchesterUnited``
 # 4 
-Quel est le nom de la chaine youtube qu'il tient avec sa femme ?
-
+_Quel est le nom de la chaine youtube qu'il tient avec sa femme ?_
+En cherchant sur youtube leurs noms on tombe assez vite sur leur chaine Youtube : <br>
+``https://www.youtube.com/@laura-andrewparkin9693`` <br><br>
+``flag : laura-andrewparkin9693``
 # 5
-Quel est le modèle de leur camping car, ainsi que la marque de la télévision à l'intérieur du camping car ? (exemple : FORD-KUGA-HUAWEI)
-
+_Quel est le modèle de leur camping car, ainsi que la marque de la télévision à l'intérieur du camping car ? (exemple : FORD-KUGA-HUAWEI)_ <br><br>
+En regardant la vidéo youtube sur leur chaine on voit qu'ils ont une tv samsung.
+Pour retrouver le modèle du camping car je me suis rendu sur le profil d'Andrew et j'ai prit une des photos du camping car disponible afin de la reverse sur google. <br>
+Je suis tombé sur beaucoup de photos de Fleetwood. <br>
+Pour se faire j'ai recherché sur le profil de Laura qui est plus bavarde "FleetWood" et dans les commentaires de l'un de ces post elle détaille le modèle de son camping car a une amie. <br>
+``https://www.facebook.com/profile/1446953857/search/?q=fleetwood`` <br><br>
+``flag : FLEETWOOD-PROVIDENCE-40X-SAMSUNG``
 # 6
-Quelle était leur adresse commune en Aout 2011 ? Quel est l'adresse mail qu'Andrew utilise pour StreetView ? Ainsi que les 4 derniers chiffres de son numéro de téléphone ? (n° rue, ville_mail_tel)
+_Quelle était leur adresse commune en Aout 2011 ? Quel est l'adresse mail qu'Andrew utilise pour StreetView ? Ainsi que les 4 derniers chiffres de son numéro de téléphone ? (n° rue, ville_mail_tel)_
 
 # 7
-Ce contributeur semble être décédé... En quelle année semble-t-il être décédé ?
+_Ce contributeur semble être décédé... En quelle année semble-t-il être décédé ?_
 
 Vous n'avez droit qu'a 3 essais...
