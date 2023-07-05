@@ -1,11 +1,29 @@
 # 1 
-Nous venons d'être contacté par Google, qui cherche un de ses importants contributeurs portant l'ID : 105567217449891111227. Il ne semble plus donner signe de vie depuis un moment... Nous sommes à la recherche d'informations sur ce contributeur.
+_Nous venons d'être contacté par Google, qui cherche un de ses importants contributeurs portant l'ID : 105567217449891111227. Il ne semble plus donner signe de vie depuis un moment... Nous sommes à la recherche d'informations sur ce contributeur._
 
-Quel est son prénom et son nom, ainsi que le prénom de sa femme ? (en majuscule, sans espace)
+_Quel est son prénom et son nom, ainsi que le prénom de sa femme ? (en majuscule, sans espace)_
+
+Dans un premier temps on observe qu'il faut faire une recherche par contributor ID.<br>
+Le contributor ID se trouve lorsqu'on poste des commentaires sur des boutiques, des lieux etc.. Prenons un avis random sur google maps et cliquons sur le profil de la personne. <br>
+On voit bien dans l'url un ID semblable à celui qui nous ai donné. Essayons de remplacer cet ID. <br>
+<src img="">
+<src img="">
+<br> Bingo ca marche, le contributor s'appelle Andrew Parkin. <br>
+En scrollant dans ces post (et il en a beaucoup) en 2018 on appercoit une photo prise par une certaine Laura Parkin, sa femme.
+
+``flag : ANDREWPARKINLAURA``
 
 # 2 
-Quel est le mois et année de naissance d'Andrew, ainsi que la date de naissance complète de sa femme ? (mois et année du mari, suivi de celui de sa femme, séparé par un tiret, exemple : 011900-31021900)
-
+_Quel est le mois et année de naissance d'Andrew, ainsi que la date de naissance complète de sa femme ? (mois et année du mari, suivi de celui de sa femme, séparé par un tiret, exemple : 011900-31021900)_ <br><br><br>
+En recherchant sur le profil de sa femmme sur facebook on trouve la date de naissance de sa femme, c'est le 5 décembre. En 2020 elle a posté une photo pour ses 50 ans, elle est donc née le __5 décembre 1970__ <br>
+``https://www.facebook.com/profile/1446953857/search/?q=birthday`` <br>
+Quand à Andrew, on voit qu'en Juin il a posté un appel au don pour une ONG pour son anniversaire. Il est donc né en Juin reste à trouver quel âge il a. <br>
+``https://www.facebook.com/donate/536578740831399/536578764164730`` <br>
+En fouillant bien on trouve une vidéo de profil de son gateau d'anniverssaire pour ces 54 ans postée le 25 juin 2016, ce qui confirme le mois de juin pour son anniversaire. <br>
+Il serait donc né en Juin 1962 <br>
+``https://www.facebook.com/1416109108/videos/10209858292280075/``
+<br><br>
+``flag : 061962-05121970 ``
 # 3 
 De quel équipe de foot est-il (sont-ils) fan ?
 
