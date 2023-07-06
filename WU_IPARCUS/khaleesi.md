@@ -72,8 +72,8 @@ Dans un premier temps on va prendre une capture d'écran du blason vu sur google
 <img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/logo_blason.png"> <br><br>
 Il suffit de faire une recherche par image inversée sur google. En scrollant bien on tombe sur une page wikipedia avec différents blasons.
 <img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/Capture%20d'%C3%A9cran%202023-07-01%20191139.png">
-On nous parle de George I, cherchons maintenant quel est le nom complet de George I afin de trouver le flag.
-<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/Capture%20d'%C3%A9cran%202023-07-01%20191328.png">
+On nous parle de George I, cherchons maintenant quel est le nom complet de George I afin de trouver le flag. <br>
+En fouillant ce site on tombe sur son nom complet : ``http://www.snap-dragon.com/kings_and_queens.htm`` <br>
 
 
-``flag : GEORGE_LOUIS_DE_HANOVRE``
+``flag : GEORG_LUDWIG_VON_HANNOVER``
