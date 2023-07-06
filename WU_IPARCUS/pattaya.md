@@ -20,7 +20,13 @@ _Cette discothèque est maintenant fermée, mais le chef de la contrebande sevit
 _Quelle est le nom de cette enseigne ? (en majuscule)_
 _De quelle couleur est son logo ? (en majuscule)_
 
-_Le flag devra être sous la forme ENSEIGNE_COULEUR_
+_Le flag devra être sous la forme ENSEIGNE_COULEUR_ <br><br>
+
+En nous baladant sur les resultats web du quartier on tombe sur une caméra de vidéo surveillance live diffusée sur Youtube. <br>
+``https://www.youtube.com/watch?v=BWXv8tHPsu8`` <br><br>
+<img src="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/pattaya_munchies.png"><br><br>
+On y voit à la place de la discothèque un snack je présume nommé "Munchies" au logo rouge. <br>
+``flag : MUNCHIES_ROUGE``<br>
 
 # 3
 
