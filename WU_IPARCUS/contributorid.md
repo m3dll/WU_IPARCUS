@@ -5,11 +5,12 @@ _Quel est son prénom et son nom, ainsi que le prénom de sa femme ? (en majuscu
 
 Dans un premier temps on observe qu'il faut faire une recherche par contributor ID.<br>
 Le contributor ID se trouve lorsqu'on poste des commentaires sur des boutiques, des lieux etc.. Prenons un avis random sur google maps et cliquons sur le profil de la personne. <br>
+<src img="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/contrib1.PNG"> <br>
 On voit bien dans l'url un ID semblable à celui qui nous ai donné. Essayons de remplacer cet ID. <br>
-<src img="">
-<src img="">
+<src img="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/contrib2.PNG">
 <br> Bingo ca marche, le contributor s'appelle Andrew Parkin. <br>
 En scrollant dans ces post (et il en a beaucoup) en 2018 on appercoit une photo prise par une certaine Laura Parkin, sa femme.
+<src img="https://github.com/mrk59/WU_IPARCUS/blob/main/WU_IPARCUS/images/contrib3.PNG">
 
 ``flag : ANDREWPARKINLAURA``
 
